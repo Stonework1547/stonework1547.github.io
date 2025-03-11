@@ -9,7 +9,7 @@ Ad doming gloriatur nam, persius neglegentur sea id. Everti causae ad mea, eu ii
 
 <details>
 <summary>
-<h2>Vis vidit omnes</h2>
+<h2 style="display: inline-block;">Vis vidit omnes</h2>
 </summary>
 <p>Vis vidit omnes electram id. Eos ut mutat erroribus. Omnesque recusabo has et, ut dictas insolens pertinax vis, ei suas prima persecuti eos. Eam eu platonem partiendo concludaturque, viris dicunt feugait mel an. Dicant vocent philosophia has an, pro in illum adipisci contentiones. Novum laoreet nonumes te vis.</p>
 </details>
