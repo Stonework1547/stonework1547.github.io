@@ -13,3 +13,8 @@ Vis vidit omnes electram id. Eos ut mutat erroribus. Omnesque recusabo has et, u
 Te nihil apeirian cum, sonet albucius forensibus ut per. Eu vis essent detracto scribentur. Et est debet suscipit, sea te summo iisque. Mei lorem mentitum ad.
 
 Usu iracundia eloquentiam ne. Sed urbanitas sententiae ea, erant alterum in est. Vis corrumpit honestatis referrentur et. Libris essent inimicus nam ex. Et oratio populo duo, id eam latine posidonium.
+
+<details>
+  <summary>Epcot Center</summary>
+  <p>Epcot is a theme park at Walt Disney World Resort featuring exciting attractions, international pavilions, award-winning fireworks and seasonal special events.</p>
+</details>
