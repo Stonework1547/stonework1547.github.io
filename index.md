@@ -1,8 +1,3 @@
----
-# title: Welcome
----
-
-
 **Consulenda LLC** is a consulting and advisory firm founded by retired Navy Vice Admiral **Kelly Aeschbach**, based in Everett, Washington
 
 Get in touch at info@consulenda.com
