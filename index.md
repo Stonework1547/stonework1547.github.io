@@ -1,5 +1,5 @@
 ---
-title: Welcome to my blog
+title: Welcome
 ---
 ## Lorem ipsum
 Lorem ipsum dolor sit amet, cum civibus voluptatum ad. At usu dictas hendrerit inciderint, invenire assueverit vituperatoribus ea vim. Dolor graeco habemus pro in, ea nam nibh habeo. Quo id paulo nusquam, vituperata consequuntur interpretaris no est. Solum eirmod cotidieque no nam, nec aperiri meliore aliquando ei, ex feugiat denique tincidunt cum. Mea audire alterum cu, an cum aeque elaboraret instructior.
