@@ -26,3 +26,6 @@ MajGen Richard C. Schulze USMC
 who commanded 3rd Battalion, 3rd Marines, in Vietnam in 1969  
 
 Epigraph to **No Shining Armor: The Marines at War in Vietnam, An Oral History**, edited by Otto J. Lehrack
+
+
+[back](./)
