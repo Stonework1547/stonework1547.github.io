@@ -11,3 +11,7 @@ Te vel illud abhorreant.
 ---
 
 ["Grunts"](grunts.html)
+
+[Extras](other-page.html)
+
+[More](another-page.html)
